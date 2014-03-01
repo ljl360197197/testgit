@@ -1,6 +1,6 @@
 <?php
 echo "nihao";
 echo "test";
-echo "liaojinling";
+echo "liao";
 echo "test";
 ?>
