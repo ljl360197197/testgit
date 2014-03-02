@@ -4,6 +4,8 @@ echo "test";
 echo "liiiiiao";
 echo "this in dev2";
 echo "linlinlin";
+echo "pri";
+echo "test2";
 echo "test";
 echo "nihaoljl";
 $arr = array();
