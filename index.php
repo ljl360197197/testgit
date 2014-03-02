@@ -5,6 +5,7 @@ echo "liiiiiao";
 echo "this in dev2";
 echo "linlinlin";
 echo "test";
+echo "nihaoljl";
 $arr = array();
 $arr["nihao"] = "nihao";
 $arr["te"] = 2;
